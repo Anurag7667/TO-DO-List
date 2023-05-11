@@ -10,7 +10,7 @@ Go to the project directory
 Install dependencies
 ```bash
   npm install express,bodyParser,nodemon
-```
+  ```
 
 Start the server
-```nodemon app.js
+```nodemon app.js```
