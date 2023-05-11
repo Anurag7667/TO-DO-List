@@ -9,7 +9,7 @@ To-do lists are a list of tasks that an individual needs to complete or accompli
 Go to the project directory
 Install dependencies
 ```bash
-  npm install express,bodyParser,nodemon
+  npm install express,bodyParser,nodemon,ejs
   ```
 
 Start the server
